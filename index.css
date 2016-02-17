@@ -5,17 +5,17 @@ h1
 {
     color: #c4bebe;
     font-family: Arial, Verdana, serif;
-    width: 100px;
+    width: 10000px;
 }
 
 .class1::first-letter
 {
     color: green;
-    font-size: 10px;
+    font-size: 100px;
 }
 .class1
 {
-    font-size: 8px;
+    font-size: 80px;
 }
 .class2
 {
@@ -27,4 +27,12 @@ table
     border-collapse: collapse;
     padding: 2px;
     margin: 2px;
+}
+.clear
+{
+    clear: both;
+}
+*
+{
+    margin: 50px;
 }
