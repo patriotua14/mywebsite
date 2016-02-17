@@ -36,7 +36,7 @@ table
     clear: both;
 }
 
-fildeset
+*
 {
     margin: 50px;
 }
@@ -47,6 +47,6 @@ fildeset
 nav
 {
     position: absolute;
-    left: 500px;
-    top: 400px;
+    left: 1000px;
+    bottom: 400px;
 }
