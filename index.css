@@ -36,10 +36,7 @@ table
     clear: both;
 }
 
-*
-{
-    margin: 50px;
-}
+
 .button:hover
 {
     color: blue;
@@ -48,5 +45,5 @@ nav
 {
     position: absolute;
     left: 1000px;
-    bottom: 400px;
+    bottom: 650px;
 }
