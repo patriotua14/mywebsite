@@ -36,11 +36,17 @@ table
     clear: both;
 }
 
-
+fildeset
 {
     margin: 50px;
 }
 .button:hover
 {
     color: blue;
+}
+nav
+{
+    position: absolute;
+    left: 500px;
+    top: 400px;
 }
