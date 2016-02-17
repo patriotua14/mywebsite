@@ -32,7 +32,12 @@ table
 {
     clear: both;
 }
+
 *
 {
     margin: 50px;
+}
+.button:hover
+{
+    color: blue;
 }
