@@ -2,7 +2,7 @@
 {   
     margin: 0;
     background-image: url('http://www.recenzent.com.ua/wp-content/uploads/2014/11/recenzent.com_.ua_The_Grand_Budapest_03.jpg');
-    background-image: no-repeat;
+    background-repeat: no-repeat;
     float: left;
     width: 100%;
     height: 750px;
@@ -39,6 +39,7 @@ h1
 {
     font-size: 25px;
     font-family: serif;
+    position: absolute;
     bottom: 0;
     left: 0;
 }
