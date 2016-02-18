@@ -13,3 +13,6 @@ background-image: url('http://www.recenzent.com.ua/wp-content/uploads/2014/11/re
     padding: 20px;
     font-size: 40px;
 }
+clear{
+    clear: both;
+}
