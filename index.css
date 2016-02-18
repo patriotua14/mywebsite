@@ -26,12 +26,12 @@ clear{
 }
 .class1::first-letter
 {
-    font-size: 50px;
+    font-size: 100px;
     color: green;
 }
 .calss1
 {
-    font-size: 40px;
+    font-size: 80px;
     font-family: serif;
     color: #8e8e8e;
 }
@@ -40,6 +40,6 @@ h1
     font-size: 25px;
     font-family: serif;
     position: absolute;
-    bottom: 0;
+    bottom: 220px;
     left: 0;
 }
