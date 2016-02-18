@@ -1,5 +1,6 @@
 p {
-color: black;    
+color: black;
+font-family:Arial, serif;
 }
 h1
 {
@@ -38,7 +39,7 @@ table
 
 .button:hover
 {
-    color: blue;
+    color: red;
 }
 nav
 {
