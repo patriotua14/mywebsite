@@ -1,9 +1,9 @@
 .bingo
-{
+{background-image: url('http://www.recenzent.com.ua/wp-content/uploads/2014/11/recenzent.com_.ua_The_Grand_Budapest_03.jpg');
     float: left;
-width 100%
+width: 100%;
 height: 1000px;
-background-image: url('http://www.recenzent.com.ua/wp-content/uploads/2014/11/recenzent.com_.ua_The_Grand_Budapest_03.jpg');
+
 }
 .bingo1
 {
@@ -15,4 +15,8 @@ background-image: url('http://www.recenzent.com.ua/wp-content/uploads/2014/11/re
 }
 clear{
     clear: both;
+}
+.problem
+{
+    
 }
