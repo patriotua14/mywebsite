@@ -24,7 +24,12 @@ clear{
 }
 .problem
 {
-    
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   padding: 10px;
+   margin: 0;
+   border: 0;
 }
 .class1::first-letter
 {
@@ -46,4 +51,22 @@ h1
     position: absolute;
     bottom: 220px;
     left: 0;
+}
+.problem2
+{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   padding: 10px;
+   margin: 0;
+   border: 0;
+}
+.problem3
+{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   padding: 10px;
+   margin: 0;
+   border: 0;
 }
