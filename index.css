@@ -21,7 +21,7 @@ h1
     margin: 50px;
 }
 .class2
-{
+{   float: left;
     margin: 50px;
 }
 table
@@ -58,4 +58,12 @@ img
     background-repeat: no-repeat;
     height: 520px;
     width: 100%;
+}
+.class4
+{
+    float: right;
+}
+.class5
+{
+    position: 50%;
 }
