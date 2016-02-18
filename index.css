@@ -48,7 +48,11 @@ nav
     bottom: 650px;
 }
 img
+{   
+    height: 100px;
+    width: 750px;
+}
+body
 {
-    height: 2000px;
-    width: 1500px;
+    background: url(foto1.jpg);
 }
