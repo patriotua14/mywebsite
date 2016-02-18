@@ -29,14 +29,16 @@ clear{
     font-size: 100px;
     color: green;
 }
-.calss1
+.class1
 {
-    font-size: 80px;
+    font-size: 65px;
     font-family: serif;
     color: #8e8e8e;
 }
 h1
-{
+{   
+    margin: 0 20px;
+    color: #b77176;
     font-size: 25px;
     font-family: serif;
     position: absolute;
