@@ -1,69 +1,14 @@
-p {
-color: black;
-font-family:Arial, serif;
-}
-h1
-{
-    color: #c4bebe;
-    font-family: Arial, Verdana, serif;
-    width: 10000px;
-    margin: 50px;
-}
-
-.class1::first-letter
-{
-    color: green;
-    font-size: 100px;
-}
-.class1
-{
-    font-size: 80px;
-    margin: 50px;
-}
-.class2
-{   float: left;
-    margin: 50px;
-}
-table
-{
-    border: 2px solid #c4bebe;
-    border-collapse: collapse;
-    padding: 2px;
-    margin: 2px;
-}
-.clear
-{
-    clear: both;
-}
-
-
-.button:hover
-{
-    color: red;
-}
-nav
-{
-    position: absolute;
-    left: 1000px;
-    bottom: 650px;
-}
-img
-{   
-    height: 100px;
-    width: 750px;
-}
-.class3
-{
-    background-image: url(http://www.recenzent.com.ua/wp-content/uploads/2014/11/recenzent.com_.ua_The_Grand_Budapest_03.jpg);
-    background-repeat: no-repeat;
-    height: 520px;
-    width: 100%;
-}
-.class4
+.bingo
 {
     float: left;
+width 100%
+height: 1000px;
 }
-.class5
+.bingo1
 {
-    background-position: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    font-size: 40px;
 }
