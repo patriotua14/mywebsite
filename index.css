@@ -29,7 +29,7 @@ clear{
    justify-content: space-around;
    align-items: stretch;
    flex-basis: 33%;
-   flex-wrap: wrap;
+   flex-wrap: nowrap;
    padding: 10px;
    margin: 10px auto;
    border: 0;
@@ -78,7 +78,7 @@ h1
    justify-content: space-around;
    align-items: stretch;
    flex-basis: 33%;
-   flex-wrap: wrap;
+   flex-wrap: nowrap;
    padding: 10px;
    margin: 0;
    border: 0;
